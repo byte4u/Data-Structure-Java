@@ -6,7 +6,7 @@
  
 public class searchLesson5 {
 
-	public static String search(int position){
+	public static String Search(int position){
 		String[] list = {"Bob", "Bruce", "Jennifer", "Kate", "Julie"};
 		int arraySyze= 5;
 		if (!(position >= 0 && position < arraySyze)) {
