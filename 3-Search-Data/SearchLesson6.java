@@ -6,7 +6,7 @@
  
 public class SearchLesson6 {
 
-	public static boolean search(String data){
+	public static boolean Search(String data){
 		String[] list = {"Bob", "Bruce", "Jennifer", "Kate", "Julie"};
 		int arraySyze = 5;
 		
